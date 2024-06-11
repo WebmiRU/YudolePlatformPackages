@@ -1,6 +1,6 @@
 package resource
 
-import "YudoleChatServer/packages/module"
+import "github.com/WebmiRU/YudolePlatformPackages/module"
 
 type Module struct {
 	Payload *module.Module `json:"payload"`
