@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"YudoleChatServer/packages/channel"
+	"github.com/WebmiRU/YudolePlatformPackages/channel"
 )
 
 type Channel struct {
