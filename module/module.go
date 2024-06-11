@@ -3,7 +3,7 @@ package module
 import (
 	"encoding/json"
 	"github.com/WebmiRU/YudolePlatformPackages/module"
-	tab "github.com/WebmiRU/YudolePlatformPackages/tab"
+	"github.com/WebmiRU/YudolePlatformPackages/tab"
 	"log"
 	"os"
 	"os/exec"
