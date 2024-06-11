@@ -1,8 +1,9 @@
 package module
 
 import (
-	"YudolePlatformPackages/tab"
 	"encoding/json"
+	"github.com/WebmiRU/YudolePlatformPackages/module"
+	"github.com/WebmiRU/YudolePlatformPackages/tab"
 	"log"
 	"os"
 	"os/exec"
