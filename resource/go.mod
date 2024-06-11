@@ -1,3 +1,3 @@
-module github.com/WebmiRU/YudolePlatformPackages/resource
+module github.com/WebmiRU/YudolePlatformPackages
 
 go 1.22.3
