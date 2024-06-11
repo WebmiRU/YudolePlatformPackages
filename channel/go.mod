@@ -1,4 +1,4 @@
-module github.com/WebmiRU/YudolePlatformPackages
+module github.com/WebmiRU/YudolePlatformPackages/channel
 
 go 1.22.3
 
