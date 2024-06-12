@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"YudoleChatServer/packages/theme"
+	"github.com/WebmiRU/YudolePlatformPackages/theme"
 )
 
 type Theme struct {
